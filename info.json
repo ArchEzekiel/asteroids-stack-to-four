@@ -1,0 +1,16 @@
+{
+	"name": "asteroids-stack-to-four",
+	"version": "1.0.0",
+	"title": "Asteroids Stack to Four",
+	"author": "ArchEzekiel",
+	"factorio_version": "2.0",
+	"contact": "TBD",
+	"homepage": "",
+	"description": "Asteroids now stack to 4, allowing them to be stacked on a belt and be grabbed in bulk by inserters",
+	"dependencies": ["base >= 2.0.0", "space-age"],
+	"quality_required": true,
+	"space_travel_required": true,
+	"spoiling_required": true,
+	"freezing_required": true,
+	"segmented_units_required": true
+}
